@@ -58,7 +58,7 @@ struct ContentView: View {
             }
             HStack {
                 Button(action: {
-                    UIApplication.shared.alert(title: "ResSet16", body: "Supports: iOS 15.0-16.1.2. \n100% safe.\nForce reboot to revert changes\n\n Inspired by ResolutionSetterSwift for TrollStore\n\nCredits:\n I copy-pasted a lot of code, so I'll just thank all of you: lemin, Avangelista, haxi0, opa334, Ian Beer, zhuowei.")
+                    UIApplication.shared.alert(title: "ResSet16", body: "Supports: iOS 15.0-16.1.2. IT WONT BE UPDATED FOR NEWER VERSIONS \n100% safe.\nForce reboot to revert changes\n\n Inspired by ResolutionSetterSwift for TrollStore\n\nCredits:\n I copy-pasted a lot of code, so I'll just thank all of you: lemin, Avangelista, haxi0, opa334, Ian Beer, zhuowei.")
                 }) {
                     HStack {
                         Spacer()
